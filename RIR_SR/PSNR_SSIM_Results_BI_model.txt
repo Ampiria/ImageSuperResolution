@@ -1,0 +1,14 @@
+**********************
+Method: RCAN; Set: Set5
+x2 1 baby_RCAN_x2.png: PSNR= 35.979958 SSIM= 0.968184
+x2 2 bird_RCAN_x2.png: PSNR= 40.639850 SSIM= 0.950903
+x2 3 butterfly_RCAN_x2.png: PSNR= 33.058756 SSIM= 0.940312
+--------Mean--------
+x3 1 baby_RCAN_x3.png: PSNR= 32.803059 SSIM= 0.951255
+x3 2 bird_RCAN_x3.png: PSNR= 35.794508 SSIM= 0.964730
+x3 3 butterfly_RCAN_x3.png: PSNR= 29.812360 SSIM= 0.926393
+--------Mean--------
+x4 1 baby_RCAN_x4.png: PSNR= 30.948246 SSIM= 0.896239
+x4 2 bird_RCAN_x4.png: PSNR= 32.904838 SSIM= 0.901746
+x4 3 butterfly_RCAN_x4.png: PSNR= 27.359312 SSIM= 0.864269
+**********************
